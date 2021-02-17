@@ -1,1 +1,0 @@
-# Hamburger-siparis-yonetim

@@ -1,0 +1,53 @@
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.csprojAssemblyReference.cache
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.Form1.resources
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.Properties.Resources.resources
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.csproj.GenerateResource.cache
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.csproj.CoreCompileInputs.cache
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\bin\Debug\SmartProHamburgercisi.exe.config
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\bin\Debug\SmartProHamburgercisi.exe
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\bin\Debug\SmartProHamburgercisi.pdb
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.exe
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.pdb
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormSiparisEkle.resources
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormEkstraMalzemeEkle.resources
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormHamburgeEkle.resources
+C:\Users\aalib\OneDrive\Masaüstü\Ali\Software\Ders\SmartPro\OOP\onlineDers\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormSiparisler.resources
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\bin\Debug\SmartProHamburgercisi.exe.config
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\bin\Debug\SmartProHamburgercisi.exe
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\bin\Debug\SmartProHamburgercisi.pdb
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.csprojAssemblyReference.cache
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.Form1.resources
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormEkstraMalzemeEkle.resources
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormHamburgeEkle.resources
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormSiparisEkle.resources
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormSiparisler.resources
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.Properties.Resources.resources
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.csproj.GenerateResource.cache
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.csproj.CoreCompileInputs.cache
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.exe
+C:\Users\SAMET ktürk\Desktop\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.pdb
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.csprojAssemblyReference.cache
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.Form1.resources
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormEkstraMalzemeEkle.resources
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormHamburgeEkle.resources
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormSiparisEkle.resources
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormSiparisler.resources
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.Properties.Resources.resources
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.csproj.GenerateResource.cache
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.csproj.CoreCompileInputs.cache
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.exe
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.pdb
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.csprojAssemblyReference.cache
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.Form1.resources
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormEkstraMalzemeEkle.resources
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormHamburgeEkle.resources
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormSiparisEkle.resources
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.FormSiparisler.resources
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.Properties.Resources.resources
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.csproj.GenerateResource.cache
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.csproj.CoreCompileInputs.cache
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.exe
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\obj\Debug\SmartProHamburgercisi.pdb
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\bin\Debug\SmartProHamburgercisi.exe.config
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\bin\Debug\SmartProHamburgercisi.exe
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\SmartProHamburgercisi\SmartProHamburgercisi\bin\Debug\SmartProHamburgercisi.pdb
